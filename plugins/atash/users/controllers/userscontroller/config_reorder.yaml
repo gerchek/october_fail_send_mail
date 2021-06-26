@@ -1,0 +1,4 @@
+title: UsersController
+modelClass: Atash\Users\Models\Users
+toolbar:
+    buttons: reorder_toolbar

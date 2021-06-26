@@ -1,0 +1,10 @@
+name: UsersController
+form: $/atash/users/models/users/fields.yaml
+modelClass: Atash\Users\Models\Users
+defaultRedirect: atash/users/userscontroller
+create:
+    redirect: 'atash/users/userscontroller/update/:id'
+    redirectClose: atash/users/userscontroller
+update:
+    redirect: atash/users/userscontroller
+    redirectClose: atash/users/userscontroller

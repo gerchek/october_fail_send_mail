@@ -1,0 +1,9 @@
+{% set maglumatlar = __SELF__.maglumatlar %}
+
+<ul>
+    {% for mag in maglumatlar %}
+        <li>
+            {{mag.name}} = {{mag.email}}
+        </li>
+    {% endfor %}
+</ul>

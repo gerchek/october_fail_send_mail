@@ -1,0 +1,11 @@
+plugin:
+    name: 'atash.users::lang.plugin.name'
+    description: 'atash.users::lang.plugin.description'
+    author: atash
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: users
+        url: atash/users/userscontroller
+        icon: icon-apple
