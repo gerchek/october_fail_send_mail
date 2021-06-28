@@ -1,9 +1,9 @@
 fields:
-    name:
-        label: name
+    login:
+        label: login
         span: auto
         type: text
-    email:
-        label: email
+    pwd:
+        label: pwd
         span: auto
         type: text

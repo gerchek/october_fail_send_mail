@@ -9,7 +9,8 @@ class Plugin extends PluginBase
 
         return [
             'Atash\Users\Components\Maglumat' => 'maglumat',
-            'Atash\Users\Components\Form' => 'form'
+            'Atash\Users\Components\Form' => 'form',
+            'Atash\Users\Components\Form_2' => 'form_2'
         ];
     }
 

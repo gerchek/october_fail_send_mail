@@ -2,9 +2,9 @@ columns:
     id:
         label: id
         type: number
-    name:
-        label: name
+    login:
+        label: login
         type: text
-    email:
-        label: email
+    pwd:
+        label: pwd
         type: text

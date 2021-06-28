@@ -6,3 +6,6 @@
 1.0.3:
     - 'Drop table atash_users_'
     - builder_table_delete_atash_users_.php
+1.0.4:
+    - 'Updated table atash_users_users'
+    - builder_table_update_atash_users_users.php
